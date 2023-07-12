@@ -41,6 +41,7 @@ function mayorQueCincuenta(num) {
    return false
 }
 
+
 function esPar(num) {
    // Retorna true si "num" es par.
    // De lo contrario, retorna false.
