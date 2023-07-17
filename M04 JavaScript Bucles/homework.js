@@ -201,11 +201,11 @@ function doWhile(num) {
    var limite = 8;
    do {
       num = num + 5;
-      limite = limite -1
+      limite = limite -1;
       
    } while (limite > 0);
-   return num ;
-}
+   return num 
+} 
 
 /*⚠️ NO MODIFIQUES NADA DEBAJO DE ESTO ⚠️*/
 module.exports = {
